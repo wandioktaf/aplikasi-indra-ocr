@@ -27,6 +27,7 @@ onnxruntime==1.31.0
 opencv-python-headless==5.0.0.93
 packaging==26.3
 pandas==3.1.0
+pdf2image==1.17.0
 pillow==13.0.0
 protobuf==7.36.2
 pyarrow==26.0.0
