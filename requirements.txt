@@ -40,6 +40,7 @@ referencing==0.37.0
 requests==2.34.2
 rpds-py==2026.9.1
 six==1.17.0
+st-copy-to-clipboard==0.1.6
 starlette==1.10.0
 streamlit==1.66.1
 tqdm==4.70.1
